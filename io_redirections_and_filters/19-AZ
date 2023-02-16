@@ -1,2 +1,2 @@
 #!/bin/bash
-| tr a x | tr o z
+tr a x | tr o z
