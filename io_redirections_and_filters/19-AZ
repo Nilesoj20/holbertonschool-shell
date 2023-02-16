@@ -1,0 +1,2 @@
+#!/bin/bash
+cat lista | tr a x | tr o z
